@@ -1,0 +1,5 @@
+{
+  "name": "Firebase Todo App",
+  "description": "A sleek and modern Todo application that allows users to sign up, log in, and manage their personal tasks. All data is securely stored and synchronized in real-time using Google Firebase Authentication and Firestore.",
+  "requestFramePermissions": []
+}
